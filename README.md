@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a JavaScript Full Stack Developer, I am currently working at the lowest-level API in Node.js for the back-end. I am also working with the React.JS framework for the front-end - Ask me anything !
+I am a JavaScript Full Stack Developer, I am currently working at the lowest-level API in Node.js for the back-end. I am also working with the React.JS for the front-end - Ask me anything !
 
 
 ## 🌐 Socials:
